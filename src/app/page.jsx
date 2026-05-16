@@ -22,10 +22,9 @@ export default function Home() {
       </div>
       {/*---------------------------------- Hero Section ----------------------------------*/}
       <div
-        className="min-h-screen bg-cover bg-center flex flex-col justify-center px-4"
-        style={{ backgroundImage: "url('/bg photo.webp')" }}
+        className="h-[76vh] flex flex-col bg-[#63813e] justify-center items-center"
       >
-        <div className="flex justify-center mb-6">
+        <div className="flex justify-center mb-3">
           <Image src="/clean energy.png" alt="Clean Energy" width={160} height={90} />
         </div>
 
@@ -51,7 +50,7 @@ export default function Home() {
       </div>
 
       {/*---------------------------------- About Us Section ----------------------------------*/}
-      <div className="max-w-7xl mx-auto px-6 py-20">
+      <div className="max-w-7xl mx-auto px-6 py-8">
         <h1 className="text-xl font-bold text-center mb-12">
           About Sunmark Enterprises
         </h1>

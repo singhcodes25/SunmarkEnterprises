@@ -52,10 +52,10 @@ const GetQuote = () => {
 
       {/* Hero Section */}
       <div
-        className="h-64 sm:h-80 flex flex-col bg-cover bg-center"
-        style={{ backgroundImage: "url('/bg photo.webp')" }}
+        className="h-50 sm:h-50 flex flex-col items-center justify-center bg-[#63813e]"
+        
       >
-        <h1 className="text-3xl sm:text-4xl font-bold text-center text-white pt-20 sm:pt-24">
+        <h1 className="text-3xl sm:text-4xl font-bold text-center text-white">
           Get a Quote
         </h1>
         <h2 className="mt-2 text-sm sm:text-md font-semibold text-center text-white">

@@ -14,8 +14,8 @@ const services = () => {
       <div>
         <div>
           <div>
-            <div className="h-80 flex flex-col bg-cover bg-center" style={{ backgroundImage: "url('/bg photo.webp')" }}>
-              <h1 className="text-4xl font-bold text-center text-white pt-24">
+            <div className="h-50 sm:h-50 flex flex-col items-center justify-center bg-[#63813e]" >
+              <h1 className="text-4xl font-bold text-center text-white">
                 Our Services
               </h1>
               <h2 className="mt-2 text-md font-semibold text-center text-white">
