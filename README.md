@@ -158,9 +158,8 @@ MONGO_URI=your_mongodb_url
 
 ## What I Learned
 
-- Learning Frontend responsive
-- Building REST APIs
-- JWT Authentication
+- Make Responsive Websites
+- Fetch details through Axios
 - Deployment on Vercel & Render
 - Error Handling
 
